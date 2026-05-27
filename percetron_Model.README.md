@@ -1,5 +1,5 @@
 # Perceptron Machine Learning Classification Project
-Find the project here; perceptron_Model.ipynb
+Find the project here; https://github.com/udokunda/data-science-portfolio/blob/540bb9ade80bb5727d5baf80f3443a3fb9ddfad0/perceptron_Model.ipynb
 
 This project demonstrates a basic supervised machine learning workflow using a Perceptron classifier in Python with the scikit-learn library.
 
