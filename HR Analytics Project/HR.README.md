@@ -35,17 +35,10 @@ The project was completed as part of the Programming for Data Scientists course 
 - Problem Solving
 - Data Quality Management
 # Example Metrics Generated
-Retention Rate (%)
-Turnover Rate (%)
-Department Demographics
-Salary Trends by Age Group
-Performance Trends by Training Hours
+- Retention Rate (%)
+- Turnover Rate (%)
+- Department Demographics
+- Salary Trends by Age Group
+- Performance Trends by Training Hours
 # Learning Outcomes
-
-## Through this project, I gained practical experience in preparing real-world datasets for analysis and developing meaningful business metrics from employee data. The project highlights the importance of data quality in producing accurate and reliable insights.
-Example Metrics Generated
-Retention Rate (%)
-Turnover Rate (%)
-Department Demographics
-Salary Trends by Age Group
-Performance Trends by Training Hours
+Through this project, I gained practical experience in preparing real-world datasets for analysis and developing meaningful business metrics from employee data. The project highlights the importance of data quality in producing accurate and reliable insights.
