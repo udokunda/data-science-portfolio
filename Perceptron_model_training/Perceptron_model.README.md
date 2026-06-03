@@ -39,7 +39,7 @@ Evaluation Metrics
 * Accuracy — Measures overall prediction correctness
 * Precision — Measures how many predicted positives are correct
 * Recall — Measures how many actual positives are identified correctly
-F1-Score — Balances precision and recall
-Confusion Matrix — Displays correct and incorrect predictions
-Conclusion
+* F1-Score — Balances precision and recall
+* Confusion Matrix — Displays correct and incorrect predictions
+## Conclusion
 This project demonstrates the implementation of a simple Perceptron neural network model for binary classification using Python and scikit-learn. It provides a foundation for understanding supervised machine learning and classification model evaluation.
