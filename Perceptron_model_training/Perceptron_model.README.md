@@ -24,15 +24,16 @@ Includes clear comments for readability and understanding
 - Python
 - Pandas
 - Scikit-learn
-- Machine Learning Workflow
-- Import required libraries
-Load the dataset
-Separate input features and target labels
-Split the dataset into training, validation, and testing sets
-Train the Perceptron model
-Validate model performance
-Test the final model
-Evaluate results using performance metrics
+
+## Machine Learning Workflow
+* Import required libraries
+* Load the dataset
+* Separate input features and target labels
+* Split the dataset into training, validation, and testing sets
+* Train the Perceptron model
+* Validate model performance
+* Test the final model
+* Evaluate results using performance metrics
 Evaluation Metrics
 
 # The following metrics are used to measure the performance of the classification model:
