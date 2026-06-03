@@ -1,10 +1,10 @@
-Iris Neural Network Classification Project
+# Iris Neural Network Classification Project
 This project demonstrates a supervised machine learning workflow using an Artificial Neural Network (ANN) on the Iris dataset with Python and scikit-learn.
 
-Project Overview
+## Project Overview
 The neural network is trained to classify Iris flower species based on sepal and petal measurements. The project includes data preprocessing, normalization, one-hot encoding, dataset splitting, model training, validation, testing, and performance evaluation.
 
-Features
+# Features
 Loads and processes the Iris dataset from a CSV file
 Applies Max-Min normalization to input features
 Uses one-hot encoding for target labels
