@@ -42,3 +42,9 @@ The project was completed as part of the Programming for Data Scientists course 
 - Performance Trends by Training Hours
 # Learning Outcomes
 Through this project, I gained practical experience in preparing real-world datasets for analysis and developing meaningful business metrics from employee data. The project highlights the importance of data quality in producing accurate and reliable insights.
+
+# Academic Information
+- Institution: University of the Witwatersrand (Wits)
+- Programme: Postgraduate Diploma in Data Science
+- Module: Ptogramming for Data Scientist
+This repository is part of my Wits Data Science Portfolio showcasing practical applications of data science techniques to real-world healthcare datasets.
